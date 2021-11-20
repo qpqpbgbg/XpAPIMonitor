@@ -1,0 +1,22 @@
+﻿生成启动时间为 2020/6/13 22:02:31。
+     1>项目“C:\Users\10746\Desktop\Win32Project2\Win32Project2\Win32Project2.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\pragrame\vs15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Win32Project2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\pragrame\vs15\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt 3huan.cpp Win32Project2.cpp
+         Win32Project2.cpp
+         3huan.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _USING_V110_SDK71_ /l"0x0409" /nologo /fo"Debug\Win32Project2.res" Win32Project2.rc 
+       Link:
+         D:\pragrame\vs15\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\10746\Desktop\Win32Project2\Debug\Win32Project2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\10746\Desktop\Win32Project2\Debug\Win32Project2.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE:NO /NXCOMPAT /IMPLIB:"C:\Users\10746\Desktop\Win32Project2\Debug\Win32Project2.lib" /MACHINE:X86 Debug\Win32Project2.res
+         Debug\3huan.obj
+         Debug\stdafx.obj
+         Debug\Win32Project2.obj
+         Win32Project2.vcxproj -> C:\Users\10746\Desktop\Win32Project2\Debug\Win32Project2.exe
+     1>已完成生成项目“C:\Users\10746\Desktop\Win32Project2\Win32Project2\Win32Project2.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.12
